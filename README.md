@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/387162150.svg)](https://doi.org/10.5281/zenodo.5113706)
+
 # Ship movements dataset
 
 This dataset contains the movements of 45 ships recorded in the [Outer Port of Punta Langosteira](https://goo.gl/maps/UG8zR274TrZEUSj66 "Outer Port of Punta Langosteira, Spain") (A Coruña, Spain) from 2015 until 2020.
@@ -140,6 +142,5 @@ Each file has the same columns in the same order. To facilitate using the data p
 [5]: https://portus.puertos.es/#/
 
 ----
-[![DOI](https://zenodo.org/badge/387162150.svg)](https://zenodo.org/badge/latestdoi/387162150)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
